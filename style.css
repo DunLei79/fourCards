@@ -27,6 +27,9 @@ p{
     padding: 1em;
     text-align: left;
 }
+span{
+    font-weight: bold;
+}
 
 .top{
     font-weight: lighter;
@@ -175,4 +178,10 @@ p{
       top: 0;
       left: 23em;
       width:35em;
+  }
+  .attribution{
+    position: absolute;
+    left: 37em;
+    top:  85em;
+   
   }
