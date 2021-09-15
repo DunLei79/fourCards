@@ -48,7 +48,7 @@ span{
   
     
 }
-/*
+
 .supervisor{
     width: 25em;
     height: 20em;
@@ -98,7 +98,7 @@ span{
     background-repeat: no-repeat;
     background-position: right 50px bottom 40px;
     box-shadow: 0px 7px 7px 0px hsl(229, 6%, 66%);
-}*/
+}
 
 @media screen and (min-width:1000px ) {
     .container{ 
